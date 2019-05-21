@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 338613b29e60b7e459bb601b3dcf7e9e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 09 Child10
+    100002: 09 Child11
+    100004: 09 Childr0
+    100006: 09 Childr1
+    100008: 09 Childr2
+    100010: 09 Childr3
+    100012: 09 Childr4
+    100014: 09 Childr5
+    100016: 09 Childr6
+    100018: 09 Childr7
+    100020: 09 Childr8
+    100022: 09 Childr9
+    100024: //RootNode
+    400000: 09 Child10
+    400002: 09 Child11
+    400004: 09 Childr0
+    400006: 09 Childr1
+    400008: 09 Childr2
+    400010: 09 Childr3
+    400012: 09 Childr4
+    400014: 09 Childr5
+    400016: 09 Childr6
+    400018: 09 Childr7
+    400020: 09 Childr8
+    400022: 09 Childr9
+    400024: //RootNode
+    2100000: Cover 1
+    2100002: Cover 2
+    2100004: Cover 3
+    2100006: Cover 4
+    2100008: Cover 5
+    2100010: Cover 6
+    2100012: Cover 7
+    2100014: Cover 8
+    2100016: Cover 9
+    2100018: Cover 10
+    2100020: Cover 11
+    2100022: Cover 12
+    2100024: pages 1
+    2100026: pages 2
+    2100028: pages 3
+    2300000: 09 Child10
+    2300002: 09 Child11
+    2300004: 09 Childr0
+    2300006: 09 Childr1
+    2300008: 09 Childr2
+    2300010: 09 Childr3
+    2300012: 09 Childr4
+    2300014: 09 Childr5
+    2300016: 09 Childr6
+    2300018: 09 Childr7
+    2300020: 09 Childr8
+    2300022: 09 Childr9
+    3300000: 09 Child10
+    3300002: 09 Child11
+    3300004: 09 Childr0
+    3300006: 09 Childr1
+    3300008: 09 Childr2
+    3300010: 09 Childr3
+    3300012: 09 Childr4
+    3300014: 09 Childr5
+    3300016: 09 Childr6
+    3300018: 09 Childr7
+    3300020: 09 Childr8
+    3300022: 09 Childr9
+    4300000: 09 Childr0
+    4300002: 09 Childr1
+    4300004: 09 Childr2
+    4300006: 09 Childr3
+    4300008: 09 Childr4
+    4300010: 09 Childr5
+    4300012: 09 Childr6
+    4300014: 09 Childr7
+    4300016: 09 Childr8
+    4300018: 09 Childr9
+    4300020: 09 Child10
+    4300022: 09 Child11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
